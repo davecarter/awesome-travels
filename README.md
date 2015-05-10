@@ -6,9 +6,9 @@ Para poder trabajar en este proyecto deberás de tener Grunt instalado. Una vez 
 
 ### Estructura
 El proyecto dispone de 3 carpetas:
-*Assets* > Contiene imágenes para crear cabecera y logo.
-*Project* > Contiene la carpeta del proyecto.
-*UX* > Contiene el wireframe con el layout a crear y los textos necesarios.
+- *Assets* > Contiene imágenes para crear cabecera y logo.
+- *Project* > Contiene la carpeta del proyecto.
+- *UX* > Contiene el wireframe con el layout a crear y los textos necesarios.
 
 ### Entorno
 El proyecto dispone de un Gruntfile con las tareas básicas ya definidas. No obstante si lo deseas puedes añadir alguna otra como por ejemplo [BrowserSync](http://www.browsersync.io/docs/grunt/) para mejorar tu productividad.
